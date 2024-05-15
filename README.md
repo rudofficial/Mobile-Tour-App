@@ -9,7 +9,7 @@ Mobile tour application in Kotlin using fragments
 ![Description window](https://github.com/rudofficial/Mobile-Tour-App/blob/main/img/4.png)
 # Tablet version:
 #### horizontal:
-![Home horizontal window](https://github.com/rudofficial/Mobile-Tour-App/blob/main/img/25.png)
+![Home horizontal window](https://github.com/rudofficial/Mobile-Tour-App/blob/main/img/25.jpg)
 #### vertical:
 ![Home window](https://github.com/rudofficial/Mobile-Tour-App/blob/main/img/16.png)
-![descr window](https://github.com/rudofficial/Mobile-Tour-App/blob/main/img/26.png)
+![descr window](https://github.com/rudofficial/Mobile-Tour-App/blob/main/img/26.jpg)
